@@ -2,21 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tsmo.top/2019/07/30/hello-world/</loc>
+    <loc>http://tsmo.top/2019/07/28/hello-world/</loc>
     
-    <lastmod>2019-07-30T13:32:23.258Z</lastmod>
+    <lastmod>2019-07-30T14:24:08.615Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tsmo.top/repository/index.html</loc>
+    <loc>http://tsmo.top/categories/index.html</loc>
+    
+    <lastmod>2019-07-30T13:49:31.661Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tsmo.top/2019/07/28/%E9%80%9A%E8%BF%87Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2019-07-30T13:40:55.443Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tsmo.top/tags/index.html</loc>
     
     <lastmod>2019-07-28T15:44:11.834Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://tsmo.top/tags/index.html</loc>
+    <loc>http://tsmo.top/repository/index.html</loc>
     
     <lastmod>2019-07-28T15:44:11.834Z</lastmod>
     
@@ -37,23 +51,9 @@
   </url>
   
   <url>
-    <loc>http://tsmo.top/categories/index.html</loc>
-    
-    <lastmod>2019-07-28T15:44:11.833Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://tsmo.top/about/index.html</loc>
     
     <lastmod>2019-07-28T15:44:11.832Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tsmo.top/2019/07/28/%E9%80%9A%E8%BF%87Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2019-07-28T14:32:06.525Z</lastmod>
     
   </url>
   
