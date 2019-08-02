@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tsmo.top/favorite/index.html</loc>
+    
+    <lastmod>2019-08-02T13:06:47.356Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://tsmo.top/2019/07/28/%E9%80%9A%E8%BF%87Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
-    <lastmod>2019-08-01T16:24:26.404Z</lastmod>
+    <lastmod>2019-08-02T12:47:43.476Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tsmo.top/2019/08/02/%E6%94%B6%E8%97%8F/</loc>
+    
+    <lastmod>2019-08-02T08:47:04.185Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tsmo.top/links/index.html</loc>
+    
+    <lastmod>2019-08-01T17:06:19.394Z</lastmod>
     
   </url>
   
@@ -38,13 +59,6 @@
   
   <url>
     <loc>http://tsmo.top/books/index.html</loc>
-    
-    <lastmod>2019-07-28T15:44:11.833Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tsmo.top/links/index.html</loc>
     
     <lastmod>2019-07-28T15:44:11.833Z</lastmod>
     
